@@ -1,6 +1,6 @@
 # slugify
 
-A tiny helper that convertes an arbitrary string into a URL-friendly "slug".
+A tiny helper that converts an arbitrary string into a URL-friendly "slug".
 
 ```python
 from slugify import slugify
